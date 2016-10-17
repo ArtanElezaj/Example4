@@ -15,7 +15,7 @@ public class Main extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //testing github
+        //test 2 github
 
     }
 
